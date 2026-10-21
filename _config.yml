@@ -3,9 +3,9 @@ name: "Yan Baosheng's blog"
 description: "阎宝圣 | study"
 
 # 博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://YanBaoshengY.github.io/images/zijun.jpg
+avatar: https://YanannaPro.github.io/images/zijun.jpg
 # favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://YanBaoshengY.github.io/images/zijun.ico
+favicon: https://YanannaPro.github.io/images/zijun.ico
 
 # 网站域名
 url: #
@@ -32,10 +32,10 @@ footer-links:
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: 3239577894@qq.com
+  email: #3239577894@qq.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: YanBaoshengY
+  github: #YanBaoshengY
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
